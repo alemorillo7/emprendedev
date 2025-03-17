@@ -31,7 +31,7 @@ const HeroSection = () => {
               </div>
             </div>
             <p className="text-lg md:text-xl font-medium">
-              50% OFF en todos los servicios hasta el 15 de marzo
+              50% OFF en todos los servicios hasta el 1 de abril.
             </p>
           </div>
           
